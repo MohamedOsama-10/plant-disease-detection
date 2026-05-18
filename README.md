@@ -169,8 +169,6 @@ for box in results[0].obb.xyxyxyxy:
 
 | Model | Task | Metric | Score |
 |-------|------|--------|-------|
-| YOLOv8m-OBB | Detection | mAP50 | ~0.70 |
-| YOLOv8m-OBB | Detection | mAP50-95 | ~0.57 |
 | MobileNetV1 | Classification | Top-1 Accuracy | 100% |
 | ViT | Classification | Top-1 Accuracy | 100% |
 
