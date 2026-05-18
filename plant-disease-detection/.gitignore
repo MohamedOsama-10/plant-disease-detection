@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Model weights (too large for GitHub)
+*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+
+# Datasets (too large)
+datasets/
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
